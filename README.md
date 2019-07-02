@@ -3,3 +3,7 @@ Given a directory of image files, Ornamento.py will extract ornate letters, orna
 https://github.com/dgorissen/fleuron (from which this code took inspiration).  
 
 Usage python Ornamento.py ~/storage/TestImages/'*.tif'  
+
+# prerequisites
+python 3.*
+opencv 3.*
